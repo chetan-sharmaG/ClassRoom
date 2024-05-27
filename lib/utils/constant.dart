@@ -11,7 +11,7 @@ class Constant{
   static const String fontFamily = 'Poppins';
 
   //Homepage constant
-  static const String apiKey = 'AIzaSyCxSXIoBB-5NDirm7U2QTfP-hFoeh73Eqk';
+  static const String apiKey = '#############NDirm7U2QTfP-hFoeh73Eqk';
   static const String loadingGif = 'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMno2ZHdmbG1wbTBrY2VyemYzNGo3cXRhcTk2ZDYyZGN5ZHAyZzhhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTk9ZvMnbIiIew7IpW/giphy.gif';
   static const Color appBarColor = Color(0xff2c2e3a);
   static const int waitDuration = 3;
