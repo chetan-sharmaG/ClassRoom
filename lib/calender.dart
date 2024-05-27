@@ -51,7 +51,7 @@
 //       }
 //     });
 //     getRole();
-//     API_KEY = 'AIzaSyCxSXIoBB-5NDirm7U2QTfP-hFoeh73Eqk';
+//    
 //     _events = LinkedHashMap(equals: isSameDay, hashCode: getHashCode);
 //     _focusedDay = DateTime.now();
 //     _firstDay = DateTime.now().subtract(const Duration(days: 1000));
