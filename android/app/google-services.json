@@ -1,8 +1,8 @@
 {
   "project_info": {
-    "project_number": "605853593806",
-    "project_id": "fir-bbd72",
-    "storage_bucket": "fir-bbd72.appspot.com"
+    "project_number": "######",
+    "project_id": "#####",
+    "storage_bucket": "*****.appspot.com"
   },
   "client": [
     {
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCxSXIoBB-5NDirm7U2QTfP-hFoeh73Eqk"
+          "current_key": "####*****"
         }
       ],
       "services": {
