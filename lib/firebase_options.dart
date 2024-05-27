@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDIP_FCkI0lWQrxpUIv2r7toBjjT-ItKGI',
-    appId: '1:605853593806:web:c617514fad4add0496e09f',
+    apiKey: '#####yDIP_FCkI0lWQrxpUIv2r7toBjjT-ItKGI',
+    appId: '#####**********:web:c617514fad4add0496e09f',
     messagingSenderId: '605853593806',
-    projectId: 'fir-bbd72',
-    authDomain: 'fir-bbd72.firebaseapp.com',
-    storageBucket: 'fir-bbd72.appspot.com',
+    projectId: 'project-id',
+    authDomain: 'project-id.firebaseapp.com',
+    storageBucket: 'project-id.appspot.com',
     measurementId: 'G-XP2341QYQQ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCxSXIoBB-5NDirm7U2QTfP-hFoeh73Eqk',
-    appId: '1:605853593806:android:0cddd5d1a3ae09be96e09f',
+    apiKey: '#####yCxSXIoBB-5NDirm7U2QTfP-hFoeh73Eqk',
+    appId: '#####**********:android:0cddd5d1a3ae09be96e09f',
     messagingSenderId: '605853593806',
-    projectId: 'fir-bbd72',
-    storageBucket: 'fir-bbd72.appspot.com',
+    projectId: 'project-id',
+    storageBucket: 'project-id.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDqiCib8QsEw9zrCyzvTUn5FSaV7dUHuUM',
-    appId: '1:605853593806:ios:bd26b0a804ae6fc096e09f',
+    apiKey: '#####yDqiCib8QsEw9zrCyzvTUn5FSaV7dUHuUM',
+    appId: '#####**********:ios:bd26b0a804ae6fc096e09f',
     messagingSenderId: '605853593806',
-    projectId: 'fir-bbd72',
-    storageBucket: 'fir-bbd72.appspot.com',
+    projectId: 'project-id',
+    storageBucket: 'project-id.appspot.com',
     iosBundleId: 'com.example.untitled',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDqiCib8QsEw9zrCyzvTUn5FSaV7dUHuUM',
-    appId: '1:605853593806:ios:1a386ded50949d0596e09f',
+    apiKey: '#####yDqiCib8QsEw9zrCyzvTUn5FSaV7dUHuUM',
+    appId: '#####**********:ios:1a386ded50949d0596e09f',
     messagingSenderId: '605853593806',
-    projectId: 'fir-bbd72',
-    storageBucket: 'fir-bbd72.appspot.com',
+    projectId: 'project-id',
+    storageBucket: 'project-id.appspot.com',
     iosBundleId: 'com.example.untitled.RunnerTests',
   );
 }
